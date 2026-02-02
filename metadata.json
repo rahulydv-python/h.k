@@ -1,0 +1,7 @@
+{
+  "name": "H.K. Gems Testing Lab",
+  "description": "A premium web presence for a world-class gemstone certification and testing facility, featuring AI-driven report analysis and elegant design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
